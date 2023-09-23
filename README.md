@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @shrvya-shetty
-- 👀 My technical skills are JAVA,ASp.net,C,C++,HTML
-- 🌱 I’m currently pursuing MCA in NMAMIT NITTE
-- 💞️ I’m looking forward to work in a good company as developer
-- 📫 How to reach me through my www.linkedin.com/in/shravya29
+# Hello, I'm Shravya Shetty! 👋
+
+- 👀 I'm passionate about technology and have skills in JAVA, ASP.NET, C, C++, and HTML.
+- 🌱 I'm currently pursuing my Master's in Computer Applications (MCA) at NMAMIT NITTE.
+- 💼 I'm actively seeking opportunities to work with a forward-thinking company as a developer.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shravya29).
+
+Let's connect and collaborate on exciting projects! 😊
 
 
