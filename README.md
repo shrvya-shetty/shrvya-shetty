@@ -1,7 +1,7 @@
+# Yo! 👋 Kudos for dropping by! 🚀
 
-# Hi there! 👋 I'm Shravya Shetty.
+Welcome to my GitHub profile! I'm Shravya shetty, a passionate MCA student and aspiring software developer. Here you'll find a collection of my projects, contributions, and a glimpse into my coding journey.
 
-I'm a passionate MCA student and aspiring software developer. Welcome to my GitHub playground, where I bring ideas to life through code! 🚀
 
 ## 🌱 Currently Learning
 
@@ -21,7 +21,7 @@ I'm currently diving deep into:
 
 # Quotes Bar
 
-> **"You can't cross the sea merely by standing and staring at the water."**
+> **"YOU CAN'T CROSS THE SEA MERELY BY STANDING AND STARING AT THE WATER."**
 >
 > \- Rabindranath Tagore
 
@@ -71,6 +71,7 @@ I'm currently diving deep into:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
+
 
 Feel free to explore my repositories and reach out for collaboration or just to chat! 😊
 
