@@ -17,7 +17,19 @@ I'm currently diving deep into:
     <img src="https://skillicons.dev/icons?i=aws,github,java,c,bootstrap,cpp,css,eclipse,html,mongodb,mysql,py,vscode" />
   </a>
 </p>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+# Quotes Bar
+
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f8f8"/>
+  <text x="10" y="40" font-family="Arial" font-size="20" fill="#e74c3c">"You can't cross the sea merely by standing and staring at the water."</text>
+  <text x="10" y="80" font-family="Arial" font-size="16" fill="#3498db">- Rabindranath Tagore</text>
+</svg>
+
+
+
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrvya-shetty&layout=compact)
 
