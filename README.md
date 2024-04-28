@@ -38,9 +38,9 @@ I'm currently diving deep into:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrvya-shetty&layout=compact" alt="Top Languages">
 </p>
 
-<p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=shrvya-shetty&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=shrvya-shetty&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 </p>
 
 
