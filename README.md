@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Shravya shetty, a passionate MCA student and a
 Check Out : https://shravya-shetty.netlify.app/
 
 ## 🌱 Currently Learning
-
+ 
 I'm currently diving deep into:
 
 - 🤖 Machine Learning and AI
