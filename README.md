@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Shravya shetty, a passionate MCA student and aspiring software developer. Here you'll find a collection of my projects, contributions, and a glimpse into my coding journey.
 
-Check Out : https://shravya-shetty.netlify.app/
+Check Out : https://shravya-shetty-porfolio.vercel.app/
 
 ## 🌱 Currently Learning
  
